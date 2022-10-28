@@ -39,6 +39,9 @@ dependencies:
   google_fonts: ^3.0.1
   http: ^0.13.5
   html: ^0.15.1
+  beautiful_soup_dart: ^0.3.0
+  bloc: ^8.1.0
+  flutter_bloc: ^8.1.1
 
 dev_dependencies:
   flutter_test:
